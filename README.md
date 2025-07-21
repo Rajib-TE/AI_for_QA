@@ -10,7 +10,7 @@ This Python script demonstrates how to programmatically:
 
 ##  Project Structure
 ├── product_catalog.csv # Sample CSV data to be ingested
-├── ingest_to_kusto.py # Main script for ingestion
+├── script.py # Main script for ingestion
 ├── .venv/ # (Optional) Python virtual environment
 └── README.md # This file
 
@@ -25,6 +25,6 @@ This Python script demonstrates how to programmatically:
 ## Authentication
 This script uses DefaultAzureCredential from azure-identity to authenticate. It supports various identity sources, such as:
 
-Azure CLI (az login)
-Managed Identity (in deployed Azure environments)
-Visual Studio Code login
+Azure CLI (az login) \
+Managed Identity (in deployed Azure environments) \
+Visual Studio Code login \
