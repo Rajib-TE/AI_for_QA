@@ -9,22 +9,22 @@ This Python script demonstrates how to programmatically:
 ---
 
 ##  Project Structure
-├── product_catalog.csv # Sample CSV data to be ingested
-├── script.py # Main script for ingestion
-├── .venv/ # (Optional) Python virtual environment
+├── product_catalog.csv # Sample CSV data to be ingested \
+├── script.py # Main script for ingestion \
+├── .venv/ # (Optional) Python virtual environment \
 └── README.md # This file
 
 ## Installation
 
 1. **Create a virtual environment (optional but recommended):**
-   ```bash
-   python -m venv .venv
+   ```bash \
+   python -m venv .venv \
    source .venv/bin/activate       # On Windows: .venv\Scripts\activate
 
    pip install azure-kusto-data azure-kusto-ingest azure-identity
 ## Authentication
 This script uses DefaultAzureCredential from azure-identity to authenticate. It supports various identity sources, such as:
 
-Azure CLI (az login) \
-Managed Identity (in deployed Azure environments) \
-Visual Studio Code login \
+1. Azure CLI (az login) \
+2. Managed Identity (in deployed Azure environments) \
+3. Visual Studio Code login 
