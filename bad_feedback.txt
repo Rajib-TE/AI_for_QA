@@ -1,0 +1,746 @@
+{{
+"content": "OK SO, I've been playing with Task scheduler for a while, finally got it to do things I wanted. (start Discord, Steam and my game without the UAC popping up every time on start up \[super annoying\]) Now, I want to start my OBS software in the background, but NOT become the active windown you know in case I'm neck deep in wasting monsters and if it pops up could get me killed... I'd like for the software to open on screen 3, (Added -screen:3 to end already so this works) But I don't know what to use to get it start as a background item. Any one have any idea? Or is this even possible with the way Windows operates? Any in site would be nice as I'm trying to deepen my understanding of this cantankerous operating system XD.",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+{{
+"content": "I've tried it once. It didn't work, trying to send something from my PC to my laptop, even if they were on the same network. I gave up, used Quick Share (which also sucks, but requires less retries to work).",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}},
+{{
+"content": "One question, does it only work with WiFi and Bluetooth? My PC is connected via RJ45 to my router and it never detects or is detected by my cell phone, only my laptop with Wi-Fi appears",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}},
+{{
+"content": "If only this work with phone where wifi is connected via hotspot. I use localsend for this stuff.",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}},
+{{
+"content": "This is the feature that has never come in clutch until I've owned a windows PC and a MS Surface at the same time. Absolute W feature",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}},
+{{
+"content": "gross...please tell me this isn't going to be enabled by default",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+{{
+"content": "I just feel like this makes a ton of sense if they're going to center the taskbar anyways. It looks so much better IMO.",
+"type": "opinion",
+"build": "",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "At minimum they should fix the taskbar auto-hide animation.",
+"type": "complaint",
+"build": "",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "No, At least I need an option to see the system tray icons and time at all time. I don't need to see my open apps all the time.",
+"type": "feature request",
+"build": "",
+"version": "Windows 11",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "No, leave the taskbar on left. Who wants their icons keep moving around?",
+"type": "opinion",
+"build": "",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "What I want is for windows to give an intelligent hide option to the panel that only hides when an app is maximized or is closer to the panel.",
+"type": "feature request",
+"build": "",
+"version": "Windows 11",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+{{
+"content": "[REOPEN] We need an official fix from Microsoft towards this bug - This bug is so insane that I'm actually on Linux right now because I can't deal with every time I tab out literally all my apps (Discord, browser, anything Electron/Chromium based) freezes and only partially draws. It's so crazy to me that it's been so many months and this bug hasn't been fixed or gotten any traction at all. I was on Windows 11 insider 25h2 and I'm pretty sure they STILL haven't fixed this in the upcoming release, I was still getting it occasionally.",
+"type": "complaint",
+"build": "Windows 11 insider 25h2",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": "False",
+"resolve_text": ""
+}}
+
+{{
+"content": "[REOPEN] We need an official fix from Microsoft towards this bug - This problem still persists here. Chrome still freezes out of nowhere on YouTube or Facebook, for example, and only returns to normal if I minimize the window and then restore it. Someone, FOR THE LOVE OF GOD, fix this!",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": "False",
+"resolve_text": ""
+}}
+
+{{
+"content": "[REOPEN] We need an official fix from Microsoft towards this bug - No, this issue is where you have Hardware acceleration in apps like chrome, spotify, discord. And say for example you are in a game for around 5mins and then you alt tab to chrome, and for example you have Twitter tab open, when you scroll after the alt tab, not the whole page scrolls, just some at the top or left or bottom, while the rest is frozen in place until u give it 10 secs to fix itself.",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": "False",
+"resolve_text": ""
+}}
+---
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - New Copilot+ PC experiences and describe image action in Click to Do for AMD and Intel-powered Copilot+ PCs will improve accessibility and provide detailed descriptions locally on devices.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Making visual content more accessible with image descriptions in Narrator using AI on Copilot+ PCs to generate richer image descriptions.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "As part of our commitment to improving Windows performance, logs are collected when your PC experiences slow performance. Insiders are encouraged to report issues related to sluggish performance, allowing Feedback Hub to automatically collect these logs for faster issue resolution.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Some Windows Insiders may experience a rollback trying to install this update with a 0x80070005 in Windows Update. We are working on a fix, using Settings > System > Recovery > 'Fix issues using Windows update' may resolve the issue.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "You may see multiple error pop-ups about unexpected elements when opening Group Policy Editor.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Using touch to navigate the new Start menu may not work reliably. It currently does not support the swipe-up gesture, and drag and drop capabilities are limited.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Live captions may crash using live translation on a Copilot+ PC.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Some Insiders are experiencing an issue where using their Xbox Controller via Bluetooth is causing their PC to bugcheck. The issue can be resolved by uninstalling the driver via Device Manager.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": True,
+"resolve_text": "Resolved by uninstalling the driver via Device Manager."
+}}
+
+{{
+"content": "Windows Insiders on AMD or Intel-powered Copilot+ PCs may experience long wait times on the first attempt to perform intelligent text actions in Click to Do after a new build or model update.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "The Microsoft Changjie Input method doesn’t work properly in this build, not able to select words. Reverting to the previous version of the IME in Settings should mitigate the issue while we work on a fix.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+{{
+"content": "Google is killing ad blockers, especially those that target YouTube ads. I used to use Ublock Origin a lot, but now it's not available from Chrome Web Store, maybe its Lite version is still available. But this already hints that the terms of service in the future may be unfavorable to users and more ad blockers will be removed from Web Store. I've heard a lot of rumors about YouTube's anti-adblocking updates, like Chrome increases CPU usage or memory usage when detecting ad blockers, and YouTube prolongs video loading when detecting ad blockers.",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "So, do I have reason to think that Edge can circumvent Google's punitive measures better than Chrome?",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": True,
+"resolve_text": "Comments suggest using Edge, Firefox, or Brave as alternatives to Chrome for better ad-blocking capabilities."
+}}
+---
+```json
+{
+"content": "Just upgraded to windows 11 but not sure about upgrading my Office365 to MS365 - But I’ve got a billing issue preventing me from adding any payment info to my MS account. Something about moving from USA to Canada but the profile being locked to USA. Don’t wanna create a new MS account or play with country settings on my PC (options offered by chat guy from MS).",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}
+```
+
+```json
+{
+"content": "Just upgraded to windows 11 but not sure about upgrading my Office365 to MS365 - Only inconvenience I see is the inability to auto save to an outside cloud source (I save via syncs to Dropbox and don’t ever use one drive). Makes me do a file/save manually each time.",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}
+```
+
+```json
+{
+"content": "Just upgraded to windows 11 but not sure about upgrading my Office365 to MS365 - I’ve read more cons than pros regarding any need to give more money to MS if you’re fine with the way excel and word work on windows 11. Can anyone tell me the actual relevance of not having your automatic updates include word and excel because you’re still using office19?",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "low",
+"resolved": True,
+"resolve_text": "Thanks for the clarification. Sounds like you’re fine with using windows 11 without the upgrade to MS365 so that’s what I’m looking to find out"
+}
+```
+
+```json
+{
+"content": "Just upgraded to windows 11 but not sure about upgrading my Office365 to MS365 - What’s stupid is how after my upgrade to 11, it opens excel and word files under MS365 and the fonts changed like it’s 365 but in fact it’s still actually the old version.",
+"type": "complaint",
+"build": "",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}
+```
+---
+{{
+"content": "I've tried it once. It didn't work, trying to send something from my PC to my laptop, even if they were on the same network. I gave up, used Quick Share (which also sucks, but requires less retries to work).",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "One question, does it only work with WiFi and Bluetooth? My PC is connected via RJ45 to my router and it never detects or is detected by my cell phone, only my laptop with Wi-Fi appears",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "If only this work with phone where wifi is connected via hotspot. i use localsend for this stuff",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "This is the feature that has never come in clutch until I've owned a windows PC and a MS Surface at the same time. Absolute W feature",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "positive",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "gross...please tell me this isn't going to be enabled by default",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+{{
+"content": "The clock in notification centre with seconds is now available! This notification popped up this morning. I didn't do any updates (I think?) and I'm running Windows 11 24H2. It's good to see that they have made this change but titling the notification 'We heard our customers!' seems a bit... strange!",
+"type": "opinion",
+"build": "",
+"version": "Windows 11 24H2",
+"sentiment": "neutral",
+"severity": "low",
+"resolved": False,
+"resolve_text": ""
+}}
+{{
+"content": "They really need to provide a way for us to manually enable all these gradual rollout features.",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+---
+```json
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - this bug is so insane that i'm actually in linux right now because i can't deal with everytime i tab out literally all my apps (discord, browser, anything electron/chromium based) freezes and only partially draws.",
+    "type": "complaint",
+    "build": "Windows 11 insider 25h2",
+    "version": "Windows 11",
+    "sentiment": "negative",
+    "severity": "high",
+    "resolved": false,
+    "resolve_text": ""
+},
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - Glad someone found the root cause. But still not fixed in official.",
+    "type": "complaint",
+    "build": "",
+    "version": "",
+    "sentiment": "negative",
+    "severity": "medium",
+    "resolved": false,
+    "resolve_text": ""
+},
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - edit: i sound a bit unhinged here in hindsight, but for what it's worth, the posters solution does/did work when i tried it on windows last time. so cheers and thanks.",
+    "type": "opinion",
+    "build": "",
+    "version": "Windows 11",
+    "sentiment": "positive",
+    "severity": "low",
+    "resolved": true,
+    "resolve_text": "The posters solution does/did work when tried on Windows."
+},
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - I have to say, Win11 24H2 is a very bad build. Although this solution can alleviate the problem, it is still not the best.",
+    "type": "complaint",
+    "build": "Win11 24H2",
+    "version": "Windows 11",
+    "sentiment": "negative",
+    "severity": "medium",
+    "resolved": false,
+    "resolve_text": ""
+},
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - I think we need a fix for [this issue](https://www.reddit.com/r/Windows11/s/LLQyW2nGqq) tbh",
+    "type": "feature request",
+    "build": "",
+    "version": "",
+    "sentiment": "negative",
+    "severity": "high",
+    "resolved": false,
+    "resolve_text": ""
+},
+{
+    "content": "[REOPEN] We need an official fix from Microsoft towards this bug - This problem still persists here. Chrome still freezes out of nowhere on YouTube or Facebook, for example, and only returns to normal if I minimize the window and then restore it.",
+    "type": "complaint",
+    "build": "",
+    "version": "",
+    "sentiment": "negative",
+    "severity": "high",
+    "resolved": false,
+    "resolve_text": ""
+}
+```
+---
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - New describe image action in Click to Do rolling out for AMD and Intel®-powered Copilot+ PCs to get detailed descriptions and improve accessibility.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": True,
+"resolve_text": "Feature is rolling out as announced."
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Detailed descriptions of images, charts, graphs now enabled in Narrator using AI on Copilot+ PCs to enhance digital accessibility.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": True,
+"resolve_text": "Feature is rolling out as announced."
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Logs are now collected when experiencing PC slow or sluggish performance through Feedback Hub for better root cause analysis.",
+"type": "feature request",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "positive",
+"severity": "low",
+"resolved": True,
+"resolve_text": "Feature is being implemented."
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Known issue: Some Insiders experiencing a rollback with a 0x80070005 error in Windows Update.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Click to Do may experience long wait times for intelligent text actions on AMD or Intel®-powered Copilot+ PCs after a new build or model update.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Announcing Windows 11 Insider Preview Build 26200.5710 for the Dev Channel - Xbox Controllers via Bluetooth causing PC to bugcheck for some Insiders.",
+"type": "complaint",
+"build": "26200.5710",
+"version": "Windows 11",
+"sentiment": "negative",
+"severity": "high",
+"resolved": True,
+"resolve_text": "Instructions provided to resolve the issue by uninstalling the XboxGameControllerDriver.inf."
+}}
+---
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Introducing 'describe image' action in Click to Do for detailed image descriptions on AMD and Intel®-powered Copilot+ PCs.",
+  "type": "feature request",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "positive",
+  "severity": "low",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Enhancements in Narrator for detailed image descriptions using AI on Copilot+ PCs.",
+  "type": "feature request",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "positive",
+  "severity": "low",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Some Windows Insiders may experience a rollback trying to install this update with a 0x80070005 in Windows Update.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "high",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Using touch to navigate the new Start menu may not work reliably.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "medium",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Drag and drop capabilities are limited from “All” to “Pinned” in the Start menu.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "medium",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Some Insiders are experiencing an issue where using their Xbox Controller via Bluetooth is causing their PC to bugcheck.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "high",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Windows Insiders on AMD or Intel®-powered Copilot+ PCs may experience long wait times for intelligent text actions in Click to Do after a new build or model update.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "medium",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - The Microsoft Changjie Input method isn’t working properly in this build.",
+  "type": "complaint",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "negative",
+  "severity": "medium",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Excitement about AI application in Narrator for vision impairment.",
+  "type": "opinion",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "positive",
+  "severity": "low",
+  "resolved": false,
+  "resolve_text": ""
+}
+```
+
+```json
+{
+  "content": "Announcing Windows 11 Insider Preview Build 26120.4741 for the Beta Channel - Positive sentiment towards outgoing fixes and specific mention of happiness about Canary fix.",
+  "type": "opinion",
+  "build": "26120.4741",
+  "version": "Windows 11",
+  "sentiment": "positive",
+  "severity": "low",
+  "resolved": true,
+  "resolve_text": "The specific issue mentioned has been addressed, making the user happy."
+}
+```
+---
+{{
+"content": "Microsoft is killing its Movies & TV store on Windows and Xbox",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Locking it behind Microsoft products didn't help them. They could of at least made it possible to watch shows from a browser on non-Microsoft products; instead they just told people to use Movies Anywhere, which doesn't support every movie and has no shows.",
+"type": "feature request",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Movies Anywhere will at least help users migrate to other services but it sucks that not every movie is apart of it(plus no tv show support).",
+"type": "complaint",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Microsoft Movies & TV was destined to fail when they abandoned plans to release a mobile app.",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "Microsoft is making too many mistakes on the consumer front and it’s not looking good.",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "I love Microsoft but I really want to know what’s going on over there and why decisions like these are being made. Do they even care about their consumer business anymore?",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "negative",
+"severity": "high",
+"resolved": False,
+"resolve_text": ""
+}}
+
+{{
+"content": "I hope they can turn things around and actually care about the consumer space again and innovate.",
+"type": "opinion",
+"build": "",
+"version": "",
+"sentiment": "neutral",
+"severity": "medium",
+"resolved": False,
+"resolve_text": ""
+}}
+---
